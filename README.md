@@ -339,3 +339,7 @@ A API estará disponível em: **`http://localhost:8080`**
 |--------------------------------|-----------------------|
 |Gabriel Gerim Marozi de Oliveira|Desenvolvedor FullStack|
 
+## 9. Detalhe importante
+
+- É possivel trocar no SQL a ROLE do usúario para ADMIN.
+
